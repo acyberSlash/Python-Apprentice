@@ -17,4 +17,4 @@ def set_turtle_image(turtle, image_name):
 
     screen = turtle.getscreen()
     screen.addshape(image_path)
-    turtle.shape(image_path)
+    turtle.shape(image_path) 
